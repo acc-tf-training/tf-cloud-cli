@@ -19,9 +19,12 @@ Set Up Your Terraform Cloud Workspace
 
 4) Navigate to the Variables tab and add two environment variables: one named "AWS_ACCESS_KEY_ID" with a value of your Access key ID and one named "AWS_SECRET_ACCESS_KEY" with a value of your Secret access key.
 
-5) Navigate to User Settings and then Tokens, and create an API token called "terraform_login".
+5)  Update the backend backend.tf with the YOUR organization Name
 
-6) Copy your API token.
+
+6) Navigate to User Settings and then Tokens, and create an API token called "terraform_login".
+
+7) Copy your API token.
 
 
 Add the Backend Configuration
