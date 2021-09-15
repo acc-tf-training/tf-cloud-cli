@@ -2,7 +2,7 @@ Set Up the Environment
 
 1) In the terminal, once logged into your instance, git clone https://github.com/acc-tf-training/tf-cloud-cli
 
-2) Apply the Terraform configuration.
+2) cd to tf-cloud-cli 
 
 3) In the AWS Console, navigate to the  IAM user and generate your Access key ID and Secret access key values.
 
